@@ -4,9 +4,9 @@ Now im going to make 10 applications of jdbc in single repo
 i thought making too many repos its not good thing for me
 
 Write a JDBC program to connect to a MySQL database.
+
 import java.sql.*;
 # Pravin JDBC Database Example
-
 This class demonstrates how to connect to a MySQL database and retrieve student records using JDBC.
 
 ```java
