@@ -1,0 +1,5 @@
+name,email,age,join_date
+"John Doe",john.doe@example.com,28,2026-01-15
+"Jane Smith",jane.smith@example.com,,2026-02-20
+"Bob Johnson, Jr.",bob.j@example.com,42,
+"Alice White",alice.w@example.com,35,2026-05-10

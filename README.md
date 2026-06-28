@@ -45,7 +45,12 @@ public class Pravin {
 }
 ```
 Write a JDBC program to insert a student record into a database.
+
+[//]: # this has completed so right now ill try another one()
+
 Write a JDBC program to display all employee records.
+done
+
 Write a JDBC program to update a student's marks.
 Write a JDBC program to delete an employee record.
 Write a JDBC program using PreparedStatement to fetch user details.
